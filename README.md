@@ -1,6 +1,6 @@
 # Hi, I'm Sarah Wanjiru 👋
 
-Frontend Engineer • Backend Developer • Cloud & DevOps Practitioner  
+Frontend Engineer  • Cloud & DevOps Practitioner  
 
 I build responsive frontend applications, and cloud-native systems.  
 I focus on performance, accessibility, clean architecture, and infrastructure reliability.
