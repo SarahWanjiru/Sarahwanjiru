@@ -2,7 +2,7 @@
 
 Frontend Engineer • Backend Developer • Cloud & DevOps Practitioner  
 
-I build responsive frontend applications, scalable backend APIs, and cloud-native systems.  
+I build responsive frontend applications, and cloud-native systems.  
 I focus on performance, accessibility, clean architecture, and infrastructure reliability.
 
 ---
@@ -22,11 +22,6 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 
 ---
 
-### Backend
-
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs)
 
 ---
 
@@ -40,16 +35,6 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 
 ---
 
-##Featured Project
-
-### Nexus — Interactive Job Board PWA
- https://github.com/SarahWanjiru/alx-project-nexus
-
-- Offline support with service workers  
-- Network-first + cache fallback strategy  
-- Dynamic filtering  
-- Responsive mobile-first UI  
-- Accessibility-focused implementation  
 
 ---
 
@@ -67,7 +52,8 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 
 - Advanced React architecture  
 - Distributed systems  
-- Kubernetes   
+- Kubernetes
+- Terraform
 
 ---
 
