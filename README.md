@@ -5,7 +5,6 @@ Frontend Engineer  • Cloud & DevOps Practitioner
 I build responsive frontend applications, and cloud-native systems.  
 I focus on performance, accessibility, clean architecture, and infrastructure reliability.
 
----
 
 ## Tech Stack
 
@@ -17,13 +16,9 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
----
 
-
----
 
 ### Cloud & DevOps
 
@@ -33,10 +28,10 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-20232A?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux)
 
----
 
 
----
+
+
 
 ## Engineering Mindset
 
@@ -46,7 +41,7 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 - I think about scalability early.
 - I improve systems incrementally.
 
----
+
 
 ## Currently Exploring
 
@@ -55,6 +50,5 @@ I focus on performance, accessibility, clean architecture, and infrastructure re
 - Kubernetes
 - Terraform
 
----
 
 > Build. Debug. Improve. Repeat.
